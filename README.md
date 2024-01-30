@@ -1,9 +1,5 @@
 ## Upgrading DevoLearn
 
-* [Official work repository for GSoC-2021](https://github.com/devoworm/GSoC-2021)
-* [DevoLearn (PyPI package)](https://github.com/DevoLearn/devolearn)
-* [DevoLearn Web App](https://devolearn.herokuapp.com/)
-* [DevoLearn-Web Code Repository](https://github.com/DevoLearn/devolearn-web)
 
 ## 1. Segmenting Nuclei in C. elegans embryo
 ![](images/slices.gif)
@@ -119,15 +115,4 @@ The user will have the ability to zoom into, pan across and view images in full 
 
 ***
 
-## 4. Weekly Blog Posts
-1. [GSoC - Community Bonding](https://mainakdeb.github.io/posts/gsoc-community-bonding/)
-2. [GSoC - Coding Period Week 1](https://mainakdeb.github.io/posts/gsoc-coding-period-week-1/)
-3. [GSoC - Coding Period Week 2](https://mainakdeb.github.io/posts/gsoc-coding-period-week-2/)
-4. [GSoC - Coding Period Week 3](https://mainakdeb.github.io/posts/gsoc-coding-period-week-3/)
-5. [GSoC - Coding Period Week 4](https://mainakdeb.github.io/posts/gsoc-coding-period-week-4/)
-6. [GSoC - Coding Period Week 5](https://mainakdeb.github.io/posts/gsoc-coding-period-week-5/)
-7. [GSoC - Coding Period Week 6](https://mainakdeb.github.io/posts/gsoc-coding-period-week-6/)
-8. [GSoC - Coding Period Week 7](https://mainakdeb.github.io/posts/gsoc-coding-period-week-7/)
-9. [GSoC - Coding Period Week 8](https://mainakdeb.github.io/posts/gsoc-coding-period-week-8/)
-10. [GSoC - Coding Period Week 9](https://mainakdeb.github.io/posts/gsoc-coding-period-week-9/)
-10. [GSoC - Coding Period Week 10](https://mainakdeb.github.io/posts/gsoc-coding-period-week-10/)
+
